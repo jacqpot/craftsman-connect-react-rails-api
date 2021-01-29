@@ -1,0 +1,2 @@
+class Toolbelt < ApplicationRecord
+end
