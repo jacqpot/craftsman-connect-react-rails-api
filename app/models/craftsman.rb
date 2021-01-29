@@ -1,0 +1,2 @@
+class Craftsman < ApplicationRecord
+end
